@@ -228,14 +228,11 @@ footer{
         color: white;
         z-index: 2;
     }
-   
-}
-@media (max-width:456px){
-   
-    .home-section{
+     .home-section{
         height: 800px;
     }
     .card-1{
         margin: 2% 0;
     }
+   
 }
